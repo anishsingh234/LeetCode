@@ -3,15 +3,14 @@ public:
     int maximumDifference(vector<int>& nums) {
         int diff=0;
         int maxdiff=-1;
+        int less=INT_MAX;
         for(int i=0; i<nums.size(); i++){
-            for(int j=1; j<nums.size(); j++){
-                if(nums[i]<nums[j] && i<j){
-                    diff=nums[j]-nums[i];
-                    maxdiff=max(maxdiff,diff);
-                }
+            less=min(less,nums[i]);
+            if(less<nums[i] ){
+                diff=nums[i]-less;
+                maxdiff=max(maxdiff,diff);
             }
         }
-        return maxdiff;
-        
+        return maxdiff;  
     }
 };
