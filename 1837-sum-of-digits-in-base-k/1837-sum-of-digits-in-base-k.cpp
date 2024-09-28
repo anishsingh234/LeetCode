@@ -8,5 +8,4 @@ public:
         }
          return sum;
     }
-   
 };
