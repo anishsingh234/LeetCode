@@ -1,20 +1,44 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> arr={-1,-1};
-        int i=0;
-        int j=nums.size();
-        int count=0;
-        while(i<j){
-            if(nums[i]==target && count==0){
-                arr[0]=i;
-                count++;
+    int lastoccurences(vector<int>& nums, int target){
+        int low=0;
+        int high=nums.size()-1;
+        int last=-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(nums[mid]==target){
+                last=mid;
+                low=mid+1;  
+            }else if(nums[mid]>target){
+                high=mid-1;
             }
-            if(nums[i]==target && count==1){
-                arr[1]=i;
+            else{
+                low=mid+1;
             }
-            i++;
         }
-        return arr;
+        return last;
+    }
+    int firstOccurences(vector<int>& nums, int target){
+        int low=0;
+        int high=nums.size()-1;
+        int first=-1;
+        while(low<=high){
+            int mid=low+(high-low)/2;
+            if(nums[mid]==target){
+                first=mid;
+                high=mid-1; 
+            }else if(nums[mid]>target){
+                high=mid-1;
+            }
+            else{
+                low=mid+1;
+            }
+        }
+         return first;
+    }
+    vector<int> searchRange(vector<int>& nums, int target) {
+        int last1=lastoccurences(nums,target);
+        int first1=firstOccurences(nums,target);
+        return {first1,last1};
     }
 };
