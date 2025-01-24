@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/anishsingh234/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0820-find-eventual-safe-states](https://github.com/anishsingh234/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anishsingh234/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/anishsingh234/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anishsingh234/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/anishsingh234/LeetCode/tree/master/2145-grid-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/anishsingh234/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/anishsingh234/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
