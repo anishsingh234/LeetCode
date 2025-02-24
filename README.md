@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishsingh234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anishsingh234/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anishsingh234/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishsingh234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/anishsingh234/LeetCode/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/anishsingh234/LeetCode/tree/master/0443-string-compression) |
+| [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anishsingh234/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Sliding Window
 |  |
