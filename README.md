@@ -93,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/anishsingh234/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/anishsingh234/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
