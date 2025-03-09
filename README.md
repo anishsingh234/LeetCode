@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishsingh234/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0407-trapping-rain-water-ii](https://github.com/anishsingh234/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anishsingh234/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anishsingh234/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2145-grid-game](https://github.com/anishsingh234/LeetCode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anishsingh234/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anishsingh234/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/anishsingh234/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anishsingh234/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Interactive
 |  |
 | ------- |
