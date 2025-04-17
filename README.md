@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishsingh234/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anishsingh234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/anishsingh234/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anishsingh234/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anishsingh234/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anishsingh234/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anishsingh234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
