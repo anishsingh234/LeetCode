@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/anishsingh234/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0820-find-eventual-safe-states](https://github.com/anishsingh234/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/anishsingh234/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/anishsingh234/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/anishsingh234/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anishsingh234/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/anishsingh234/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
