@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anishsingh234/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anishsingh234/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anishsingh234/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/anishsingh234/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anishsingh234/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/anishsingh234/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anishsingh234/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anishsingh234/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anishsingh234/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/anishsingh234/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anishsingh234/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anishsingh234/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anishsingh234/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anishsingh234/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/anishsingh234/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anishsingh234/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anishsingh234/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Memoization
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/anishsingh234/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anishsingh234/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/anishsingh234/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Trie
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/anishsingh234/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/anishsingh234/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/anishsingh234/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
