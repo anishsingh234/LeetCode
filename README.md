@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishsingh234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anishsingh234/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anishsingh234/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/anishsingh234/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/anishsingh234/LeetCode/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anishsingh234/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anishsingh234/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anishsingh234/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/anishsingh234/LeetCode/tree/master/2145-grid-game) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anishsingh234/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/anishsingh234/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anishsingh234/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anishsingh234/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Interactive
 |  |
 | ------- |
