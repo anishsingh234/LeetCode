@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anishsingh234/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anishsingh234/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anishsingh234/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anishsingh234/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/anishsingh234/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/anishsingh234/LeetCode/tree/master/2145-grid-game) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anishsingh234/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anishsingh234/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3194-find-words-containing-character](https://github.com/anishsingh234/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anishsingh234/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anishsingh234/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anishsingh234/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anishsingh234/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/anishsingh234/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anishsingh234/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anishsingh234/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anishsingh234/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Dynamic Programming
