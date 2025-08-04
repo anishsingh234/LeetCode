@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishsingh234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
+| [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anishsingh234/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anishsingh234/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anishsingh234/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishsingh234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anishsingh234/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Array
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anishsingh234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/anishsingh234/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0503-next-greater-element-ii](https://github.com/anishsingh234/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/anishsingh234/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anishsingh234/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1293-three-consecutive-odds](https://github.com/anishsingh234/LeetCode/tree/master/1293-three-consecutive-odds) |
