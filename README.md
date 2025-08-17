@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishsingh234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0867-new-21-game](https://github.com/anishsingh234/LeetCode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anishsingh234/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Array
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anishsingh234/LeetCode/tree/master/0007-reverse-integer) |
+| [0867-new-21-game](https://github.com/anishsingh234/LeetCode/tree/master/0867-new-21-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anishsingh234/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anishsingh234/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anishsingh234/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/anishsingh234/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anishsingh234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0867-new-21-game](https://github.com/anishsingh234/LeetCode/tree/master/0867-new-21-game) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anishsingh234/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Counting
 |  |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/anishsingh234/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/anishsingh234/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
