@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anishsingh234/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/anishsingh234/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anishsingh234/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/anishsingh234/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/anishsingh234/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3790-fruits-into-baskets-ii](https://github.com/anishsingh234/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Breadth-First Search
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/anishsingh234/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/anishsingh234/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/anishsingh234/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/anishsingh234/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Graph
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anishsingh234/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anishsingh234/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anishsingh234/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/anishsingh234/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Counting
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/anishsingh234/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/anishsingh234/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Tree
 |  |
 | ------- |
