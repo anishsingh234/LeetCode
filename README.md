@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishsingh234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/anishsingh234/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/anishsingh234/LeetCode/tree/master/0037-sudoku-solver) |
 | [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anishsingh234/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishsingh234/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/anishsingh234/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/anishsingh234/LeetCode/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/anishsingh234/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anishsingh234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/anishsingh234/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/anishsingh234/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/anishsingh234/LeetCode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/anishsingh234/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/anishsingh234/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anishsingh234/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anishsingh234/LeetCode/tree/master/0037-sudoku-solver) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/anishsingh234/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 ## Segment Tree
 |  |
