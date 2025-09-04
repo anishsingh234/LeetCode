@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anishsingh234/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/anishsingh234/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/anishsingh234/LeetCode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3830-find-closest-person](https://github.com/anishsingh234/LeetCode/tree/master/3830-find-closest-person) |
 ## Stack
 |  |
 | ------- |
