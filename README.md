@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/anishsingh234/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anishsingh234/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anishsingh234/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anishsingh234/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anishsingh234/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anishsingh234/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anishsingh234/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anishsingh234/LeetCode/tree/master/0007-reverse-integer) |
 | [0867-new-21-game](https://github.com/anishsingh234/LeetCode/tree/master/0867-new-21-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anishsingh234/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anishsingh234/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anishsingh234/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anishsingh234/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anishsingh234/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
