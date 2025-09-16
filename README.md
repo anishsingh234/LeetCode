@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/anishsingh234/LeetCode/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/anishsingh234/LeetCode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/anishsingh234/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/anishsingh234/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anishsingh234/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anishsingh234/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anishsingh234/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anishsingh234/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/anishsingh234/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/anishsingh234/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/anishsingh234/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/anishsingh234/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/anishsingh234/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/anishsingh234/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/anishsingh234/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anishsingh234/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/anishsingh234/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/anishsingh234/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Linked List
 |  |
@@ -335,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/anishsingh234/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/anishsingh234/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
