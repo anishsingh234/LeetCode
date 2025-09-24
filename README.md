@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishsingh234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/anishsingh234/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anishsingh234/LeetCode/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anishsingh234/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/anishsingh234/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anishsingh234/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/anishsingh234/LeetCode/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/anishsingh234/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anishsingh234/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0443-string-compression](https://github.com/anishsingh234/LeetCode/tree/master/0443-string-compression) |
 | [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anishsingh234/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anishsingh234/LeetCode/tree/master/0007-reverse-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anishsingh234/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0867-new-21-game](https://github.com/anishsingh234/LeetCode/tree/master/0867-new-21-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anishsingh234/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anishsingh234/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
