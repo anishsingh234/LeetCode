@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/anishsingh234/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/anishsingh234/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0945-snakes-and-ladders](https://github.com/anishsingh234/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anishsingh234/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anishsingh234/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anishsingh234/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/anishsingh234/LeetCode/tree/master/1558-course-schedule-iv) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/anishsingh234/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0820-find-eventual-safe-states](https://github.com/anishsingh234/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anishsingh234/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/anishsingh234/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/anishsingh234/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anishsingh234/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anishsingh234/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/anishsingh234/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/anishsingh234/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Combinatorics
@@ -369,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/anishsingh234/LeetCode/tree/master/3827-implement-router) |
+## Binary Tree
+|  |
+| ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/anishsingh234/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
