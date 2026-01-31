@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/anishsingh234/LeetCode/tree/master/0037-sudoku-solver) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anishsingh234/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/anishsingh234/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anishsingh234/LeetCode/tree/master/0242-valid-anagram) |
 | [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/anishsingh234/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/anishsingh234/LeetCode/tree/master/0038-count-and-say) |
 | [0165-compare-version-numbers](https://github.com/anishsingh234/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anishsingh234/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/anishsingh234/LeetCode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/anishsingh234/LeetCode/tree/master/0443-string-compression) |
 | [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anishsingh234/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anishsingh234/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anishsingh234/LeetCode/tree/master/0242-valid-anagram) |
 | [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anishsingh234/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anishsingh234/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
