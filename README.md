@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/anishsingh234/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2685-first-completely-painted-row-or-column](https://github.com/anishsingh234/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anishsingh234/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-find-words-containing-character](https://github.com/anishsingh234/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anishsingh234/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/anishsingh234/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anishsingh234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anishsingh234/LeetCode/tree/master/0242-valid-anagram) |
 | [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anishsingh234/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anishsingh234/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anishsingh234/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anishsingh234/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/anishsingh234/LeetCode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/anishsingh234/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anishsingh234/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/anishsingh234/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/anishsingh234/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/anishsingh234/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
