@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/anishsingh234/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/anishsingh234/LeetCode/tree/master/0009-palindrome-number) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anishsingh234/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0867-new-21-game](https://github.com/anishsingh234/LeetCode/tree/master/0867-new-21-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anishsingh234/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
