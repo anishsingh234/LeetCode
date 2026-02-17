@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/anishsingh234/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anishsingh234/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/anishsingh234/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anishsingh234/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/anishsingh234/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/anishsingh234/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anishsingh234/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anishsingh234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anishsingh234/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anishsingh234/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anishsingh234/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anishsingh234/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anishsingh234/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
