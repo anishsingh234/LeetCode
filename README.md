@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anishsingh234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anishsingh234/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anishsingh234/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/anishsingh234/LeetCode/tree/master/0645-set-mismatch) |
 | [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/anishsingh234/LeetCode/tree/master/1006-vowel-spellchecker) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anishsingh234/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/anishsingh234/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0503-next-greater-element-ii](https://github.com/anishsingh234/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0645-set-mismatch](https://github.com/anishsingh234/LeetCode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anishsingh234/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/anishsingh234/LeetCode/tree/master/0945-snakes-and-ladders) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anishsingh234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anishsingh234/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anishsingh234/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0645-set-mismatch](https://github.com/anishsingh234/LeetCode/tree/master/0645-set-mismatch) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anishsingh234/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2689-rearranging-fruits](https://github.com/anishsingh234/LeetCode/tree/master/2689-rearranging-fruits) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/anishsingh234/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/anishsingh234/LeetCode/tree/master/0645-set-mismatch) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/anishsingh234/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/anishsingh234/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Brainteaser
