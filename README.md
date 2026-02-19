@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/anishsingh234/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/anishsingh234/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/anishsingh234/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/anishsingh234/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/anishsingh234/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/anishsingh234/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0263-ugly-number](https://github.com/anishsingh234/LeetCode/tree/master/0263-ugly-number) |
 | [0867-new-21-game](https://github.com/anishsingh234/LeetCode/tree/master/0867-new-21-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/anishsingh234/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/anishsingh234/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/anishsingh234/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/anishsingh234/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
