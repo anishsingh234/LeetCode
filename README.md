@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/anishsingh234/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anishsingh234/LeetCode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/anishsingh234/LeetCode/tree/master/0060-permutation-sequence) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anishsingh234/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0263-ugly-number](https://github.com/anishsingh234/LeetCode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/anishsingh234/LeetCode/tree/master/0728-self-dividing-numbers) |
@@ -438,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anishsingh234/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/anishsingh234/LeetCode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
