@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anishsingh234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anishsingh234/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anishsingh234/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/anishsingh234/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/anishsingh234/LeetCode/tree/master/0645-set-mismatch) |
 | [0889-buddy-strings](https://github.com/anishsingh234/LeetCode/tree/master/0889-buddy-strings) |
 | [0940-fruit-into-baskets](https://github.com/anishsingh234/LeetCode/tree/master/0940-fruit-into-baskets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anishsingh234/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/anishsingh234/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/anishsingh234/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0496-next-greater-element-i](https://github.com/anishsingh234/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anishsingh234/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/anishsingh234/LeetCode/tree/master/0645-set-mismatch) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/anishsingh234/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anishsingh234/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/anishsingh234/LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/anishsingh234/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anishsingh234/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/anishsingh234/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/anishsingh234/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/anishsingh234/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anishsingh234/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/anishsingh234/LeetCode/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/anishsingh234/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
