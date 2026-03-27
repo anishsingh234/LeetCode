@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishsingh234/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/anishsingh234/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/anishsingh234/LeetCode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/anishsingh234/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/anishsingh234/LeetCode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/anishsingh234/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anishsingh234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anishsingh234/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/anishsingh234/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/anishsingh234/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0443-string-compression](https://github.com/anishsingh234/LeetCode/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/anishsingh234/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anishsingh234/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anishsingh234/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/anishsingh234/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/anishsingh234/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anishsingh234/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anishsingh234/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anishsingh234/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/anishsingh234/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/anishsingh234/LeetCode/tree/master/0937-online-stock-span) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anishsingh234/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/anishsingh234/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anishsingh234/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0867-new-21-game](https://github.com/anishsingh234/LeetCode/tree/master/0867-new-21-game) |
